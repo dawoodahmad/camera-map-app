@@ -1,0 +1,2288 @@
+[
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Bath Rd, nr jct Flowers Hill, Brislington (was 'Supertune' site)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100015",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Bath Road, nr jct Kensington Park Road, Brislington (was 'Monument' site)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100018",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Bath Road, nr jct Tramway Road, Bristol (was 'PDSA' site)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100009",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Hotwells Rd",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100028",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Portway (Eastbound), nr jct Woodwell Road, Shirehampton",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "10100058",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4 Portway (Westbound), nr jct Woodwell Road, Shirehampton",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "10100059",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "A4018 Westbury Road, Nr Jct Downs Road, Westbury on Trym",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100048",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "B3122 St John's Lane, nr jct Littleton Road, Bedminster",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100006",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "Filton Avenue, nr jct Beatrix Place, Northville, Filton",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "10100004",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Fixed Camera",
+    "location": "M32, Severn Beach rail line overbridge to end of motorway southbound (MetroBus lane)",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "900",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A3029 Winterstoke Road, Bristol (nr 82 Winterstoke Road)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "243",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A37 Bristol Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2091",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A37 Wells Road, Hengrove, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3084",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A370 Coronation Road, Southville",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3251",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A38 Cheltenham Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4144",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A38 Gloucester Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4178",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A38 Rupert Street/Bridewell Street/The Haymarket, Bristol (outside The Bridewell Police Station)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "212",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Bath Rd, Totterdown, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3102",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Bath Road, Hicks Gate",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "3153",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Brislington Hill, nr Runnymead Avenue",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "401",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway Nr Roman Way",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "183",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway Nr Sylvan Way/Riverleaze",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "145",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway junc Barrow Hill Rd",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "150",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway near Hung Road",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "151",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway, near Gateway to Water Works Building",
+    "speed_limit": "50mph",
+    "camera_label": null,
+    "site_id": "4140",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4 Portway, nr Portview Road",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2014",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4018 Falcondale Rd, Westbury on Trym",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "109",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4018 Whiteladies Road, Clifton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4200",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A403 St Andrews Road, Avonmouth",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "172",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4162 Canford Lane",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "160",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4162 Sylvan Way/Dingle Rd/Canford Lane",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "61",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 Airport Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2435",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 Callington Road, Brislington, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3193",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 Hengrove Way, nr Lakeshore Drive, Bristol",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "368",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 Hengrove Way, nr Whitland Avenue, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "369",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 King Georges Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "347",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A4174 Ring Road",
+    "speed_limit": "70mph",
+    "camera_label": null,
+    "site_id": "3211",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A420 Bell Hill Road/Two Mile Hill Road, St George",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3048",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A420 Church Road, St George, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2431",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A431 Air Balloon Road",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "121",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A431 Nags Head Hill",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "177",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A432 Downend Road, Fishponds",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "352",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "A432 Fishponds Road, Easton (nr jct Freemantle Road)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "231",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Allison Rd, Brislington (opposite Sherwell Road)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2006",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Allison Road, Brislington, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4149",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Angers Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2413",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Argyle Road, Mayfield Park",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "154",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ashley Hill, Monpelier",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "272",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ashton Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "374",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Avonmouth Way, Avonmouth",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "294",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B3119 West Town Lane, Bristol (nr Primary School)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "242",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B3122 Bedminster Road",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "422",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B3122 Redcatch Road, Knowle",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3054",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B3122 Redcatch Road, Knowle, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3108",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4048 Lodge Causeway",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4147",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4048 Lodge Hill/Lodge Road, Speedwell, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2381",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4052 Ashley Down Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "298",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4054 Avonmouth Rd, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "164",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4054 Cranbrook Road, Redland, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "167",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4054 Shirehampton Rd, Sea Mills",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "57",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4054 Shirehampton Road",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "156",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4055 Station Road, Henbury",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "345",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4056 Henleaze Road",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4194",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4057 Knole Lane",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "120",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4058 Park Road, Stapleton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "281",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4058 Park Road, Stapleton (nr The Chine)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "203",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4059 Hallen Road, Henbury",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "67",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Forest Road, Hillfields",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "370",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Forest Road, nr Radley Road, Hillfields",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "10",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Whitefield Road, Speedwell",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2370",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Whitehall Road, nr Gerrish Avenue, Upper Easton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "213",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Whitehall Road, nr Thurstons Barton, Upper Easton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "416",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4465 Whitehall Road, nr Whitehall Avenue, Whitehall",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "371",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4466 Jacobs Wells Road",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "355",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4467 Pembroke Road, Clifton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4199",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "B4469 Muller Road, Horfield, Bristol near Brent Road",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "196",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bamfield Road, Hengrove > Whitchurch Lane",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2002",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Barnstaple Road, Knowle (nr jct Barnstaple Court)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "246",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Beaufort Road, St George",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "402",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bell Barn Road, Stoke Bishop",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "12",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Birchwood Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3196",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bishopsworth Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4096",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bishopthorpe Road, Bristol (nr Bishopthorpe Lane)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "184",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bishport Ave, Hartcliffe, Bristol no 2",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3008",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Blackberry Hill, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4190",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Blackswarth Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "244",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bonnington Walk, nr Branwhite Close, Lockleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2319",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bonnington Walk, nr Wordsworth Road, Lockleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2320",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Bradley Stoke Way, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "4166",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Brentry Lane, Brentry",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "367",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Broad Street/High Street, Staple Hill",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "258",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Broad Walk, Knowle West, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3072",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Broadwalk, Knowle West, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3095",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Broomhill Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3086",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Cadogan Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "398",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Calcott Road, Knowle (nr 56 Calcott Road)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "80",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Cassel Road, Staple Hill (nr 7 Cassell Road)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "210",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Cassell Road, Staple Hill, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4148",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Chalks Road, St George, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2464",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Charlton Road, Brentry - 1",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4126",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Charlton Road, Brentry - 2",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "410",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Church Road, Bishopsworth, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2400",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Concorde Drive, Southmead",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "290",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Constable Road, nr Crome Road, Lockleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2318",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Coombe Lane, Stoke Bishop",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "357",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Creswicke Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2100",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Crews Hole Road, St George",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "387",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Cromwell Road, St Andrews",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4122",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Cumberland Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "9",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Donald Road, Bedminster Down",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "397",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Doncaster Road, Southmead, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2395",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Dovercourt Road, Horfield",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2459",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Dragon Road, Winterbourne",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "283",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Duckmoor Rd, Ashton Gate, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "146",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Eastfield Road, Westbury on Trym",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "279",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Feeder Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3051",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Fortfield Road, Whitchurch",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "421",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Four Acres, Withywood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "414",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Furber Road",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "358",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Gill Avenue, Fishponds, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2240",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Glenfrome Road, Eastville",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "266",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Glyn Vale, Knowle",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "344",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Gordon Avenue, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "278",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Great Hayles Road, Hengrove",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "404",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Greenway Bush Lane, Ashton, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "215",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Guildford Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "384",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hampton Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "52",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hareclive Rd, Hartcliffe, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3119",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hawkfield Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3116",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hazelbury Road, Whitchurch",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "276",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Henbury Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2405",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hengrove Avenue, Hengrove, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "263",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hengrove Lane, Hengrove, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "262",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Highbury Road, Bedminster",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "275",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Highbury Road, Horfield",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "220",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Highridge Green, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2011",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hill View, Henleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "289",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hillfields Avenue, Hillfields, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4109",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hillside Road, St George (nr Air Balloon Hill Primary School)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hollister's Drive, Hartcliffe",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "256",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hollway Road, Stockwood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "291",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Hungerford Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "267",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ilminster Avenue, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "58",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Jenner Boulevard, Lyde Green, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2095",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Julian Road, Sneyd Park",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "282",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kellaway Avenue, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "84",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kensington Park Road, Brislington",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "394",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Keys Avenue, Horfield (nr jct Reynolds Walk)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "211",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kings Walk, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2094",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kings Weston Road, Henbury",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "174",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kingsway, St George",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "356",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Kingsweston Lane, Lawrence Weston",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "176",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ladies Mile, Durdham Down",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "155",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ladman Road, Stockwood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "292",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Landseer Avenue, Lockleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "385",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Long Cross, Lawrence Weston, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "178",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Lynton Road, Bedminster, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2090",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "M49 Hallen, Near Moorhouse Lane",
+    "speed_limit": "70mph",
+    "camera_label": null,
+    "site_id": "4135",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Marksbury Road, Bedminster",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "248",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Marsh Lane, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "366",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Martock Road, Bedminster",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "386",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Meadow Vale, St George, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2444",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Merebank Road, Avonmouth",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "299",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Murford Avenue, Withywood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "407",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "NO LONGER IN USE AS NOW 20MPH LIMIT - Crews Hole Road, St George, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3147",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Newbridge Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "359",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "North Street, Ashton, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4139",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Novers Hill, Bedminster, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2385",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Novers Hill, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2021",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Novers Lane, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2013",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Old Sneed Avenue, Stoke Bishop",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "395",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Oldbury Court Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "365",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Park Crescent, Whitehall",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "373",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Park Road, Shirehampton, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2397",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Park Road, Staple Hill, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4165",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Park Wall Road, Longwell Green",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "188",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Parson Street, Bedminster",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "408",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Petherton Road, Hengrove",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "346",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Plummers Hill, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "423",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Plummers Hill, St George, nr Hudds Vale Road",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "185",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Poplar Way West, Avonmouth",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "413",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Portview Road, Shirehampton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "265",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Queen's Road, Bishopsworth, Bristol (Layby opposite 67 Queen's Road)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3252",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Raleigh Road, Southville, Bristol (no longer in use)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3267",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Red Hill, Camerton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2432",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Redland Road, nr Edgecumbe Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "341",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ridgeway Lane, Hengrove, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "349",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ridgeway Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "261",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Ridingleaze, Lawrence Weston",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "388",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Robertson Road, Easton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "230",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Roman Way, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "343",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Romney Avenue, Lockleaze",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "158",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Romney Avenue, nr Stoke Park Primary School, Lockleaze",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "5",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Rousham Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "363",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Sandy Park Road, Brislington, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2398",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "School Road, Brislington",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2017",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Sea Mills Lane, Sea Mills",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "361",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Severn Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "4191",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Shortwood Road, Hartcliffe, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2093",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Small Lane, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "277",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Smyth Road, Ashton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "28",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Snowdon Road, Fishponds",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "98",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Somerdale Avenue, Knowle, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "348",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "South Liberty Lane, Ashton Vale",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3081",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "St Luke's Road, Totterdown",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "403",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Station Road, Shirehampton",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "264",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Stockwood Lane, Stockwood",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "285",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Stockwood Lane, nr Whitchurch Village sign, Stockwood",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "88",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Stockwood Lane, nr the sports ground, Stockwood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "95",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Stockwood Road, Stockwood",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2429",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Stoke Hill/Stoke Rdnr Saville Rd, Clifton",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "65",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Sturminster Road, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "3101",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Sylvia Avenue, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2415",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Talbot Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "221",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Tarnock Avenue, Hengrove",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "400",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Thicket Avenue, Fishponds - 1",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "202",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Thicket Avenue, Fishponds - 2",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "223",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Thingwall Park, Bristol (nr jct Huyton Road)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "245",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Troopers Hill, St George, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "2462",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Walsh Avenue, Hengrove, (nr 123 Walsh Ave) (no longer in use)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "204",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wedmore Vale, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "4142",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wellington Hill West, Bristol (outside 57 Wellington Hill West)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "20",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wellington Hill West, Horfield (nr jct B4056 Southmead Road)",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "72",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wessex Avenue, Horfield, Bristol near Filton Avenue",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "195",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whitchurch Lane, nr Halfacre Lane, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3120",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whitchurch Lane, nr Hawkfield Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "240",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whitehall Avenue, nr Alder Drive, Whitehall",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "372",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whiteway Road, St George, Bristol",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "2445",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whitland Road, Bristol (nr 104 Whitland Road)",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "87",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Whittucks Road, Hanham",
+    "speed_limit": "30mph",
+    "camera_label": null,
+    "site_id": "284",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wick Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "3167",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Wingfield Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "257",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Winterbourne Road",
+    "speed_limit": "40mph",
+    "camera_label": null,
+    "site_id": "189",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Woodland Road, Bristol",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "53",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Mobile Enforcement",
+    "location": "Woodland Way, Hillfields",
+    "speed_limit": "20mph",
+    "camera_label": null,
+    "site_id": "411",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A37 Wells Road > A37 Wells Road/B3119 West Town Lane/Hengrove Lane (was 'Happy Landings' site)",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100017",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A38 Bridgwater Road > A38 Bedminster Down/Bishopsworth Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100032",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A38 Filton Road > Toronto Road/Monks Park Avenue",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100046",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4018 Falcondale Road > B4055 Henbury Road/A4018 Falcondale Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100024",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4018 Whiteladies Road > Tyndall's Park Road/St Paul's Road/A4018 Whiteladies Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100033",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4032 Bond Street (WB), jct A4044 Bond Street South > A4044 Bond Street",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100054",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4032 Newfoundland Street (WB), jct Houlton Street > A4044 Bond Street",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100053",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4044 Bond Street (Eastbound Nearside/Offside) > A4032 Newfoundland Circus",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100071",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4044 Bond Street South (NB), jct A4032/A4044 Bond Street > A4032 Newfoundland Street",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100055",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4044 Temple Way Underpass (Righthand/Lefthand Northbound Nearside) > Bond Street South",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100025",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4174 Airport Rd, nr jct Bamfield > A4174 Hengrove Way",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100011",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4174 Hartcliffe Way > Novers Lane/A4174 Hartcliffe Way",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100086",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4174 Hengrove Way, nr jct Creswicke Road > A4174 Airport Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100010",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A420 Church Rd, Redfield > Chalks Road/A420 Church Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100012",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4320 Easton Way (Northbound), nr jct Stapleton Road > A4320 Easton Way",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100022",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "A4320 Easton Way (southbound), Bristol > St Philips Cswy",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100007",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "Ingleside Road, jct B4048 Lodge Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100070",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "Stoke Hill > Stoke Road/Saville Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100026",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "type": "Red Light Camera",
+    "location": "Wessex Avenue > Filton Avenue/Locklease Road",
+    "speed_limit": null,
+    "camera_label": "Redlight",
+    "site_id": "10100045",
+    "latitude": null,
+    "longitude": null
+  }
+]
